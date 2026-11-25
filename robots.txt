@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://sowaavolia.github.io/psycholog-ewa-sowa/sitemap.xml
